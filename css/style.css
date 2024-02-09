@@ -41,7 +41,7 @@ header{
     color:#ffffff;
     padding-top:30px;
     min-height:70px;
-    border-bottom:#e8491d 3px solid;
+    border-bottom:#271de8 3px solid;
   }
   
 
@@ -82,7 +82,7 @@ header{
   }
 
   header .highlight, header .current a{
-    color:#e8491d;
+    color:#271de8;
     font-weight:bold;
   }
 
@@ -181,7 +181,7 @@ header a:hover{ /* Change font when hovering over a */
     padding:20px;
     margin-top:20px;
     color:#ffffff;
-    background-color:#e8491d;
+    background-color:#271de8;
     text-align: center;
   }
   
